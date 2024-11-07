@@ -21,7 +21,12 @@ Staking is presently accessible on the Sepolia Testnet, where participants will 
 ### Clone
 
 ```
-   git clone https://bitbucket.org/mat-org/munityhub.git
+   https://github.com/Finalgoal231/munitymetahorse.git
+```
+### Change directory
+
+```
+   cd munitymetahorse
 ```
 
 ### Install dependencies
